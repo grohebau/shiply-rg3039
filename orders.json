@@ -1,6 +1,6 @@
 {
   "S33530": {
-    "status": "Warten auf Zahlung",
+    "status": "Versandvorbereitung",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Landstraße 21, 1030 Wien, Österreich",
     "receiver": "Jochem Fakkeldij, Polderstraat 70A, 2990 Wuustwezel, Belgien",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "16.02.2026",
-    "deliveryDate": "20.02.2026",
+    "deliveryDate": "23.02.2026 15:30 Uhr",
     "pickup": {
       "street": "",
       "postal_code": "",
