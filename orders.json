@@ -1,6 +1,6 @@
 {
   "S33530": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Landstraße 21, 1030 Wien, Österreich",
     "receiver": "Jochem Fakkeldij, Polderstraat 70A, 2990 Wuustwezel, Belgien",
@@ -26,12 +26,12 @@
       }
     ],
     "orderDate": "16.02.2026",
-    "deliveryDate": "23.02.2026 15:30 Uhr",
+    "deliveryDate": "Geplant für den 26.02.2026 um 15:00 Uhr – Ankunft in Belgien",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Rotterdamer Straße 32",
+      "postal_code": "90451",
+      "city": "Nürnberg",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
