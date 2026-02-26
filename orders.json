@@ -28,10 +28,10 @@
     "orderDate": "Abgeholt zur Zustellung – 23.02.2026",
     "deliveryDate": "Geplant für den 26.02.2026 um 15:00 Uhr – Ankunft in Belgien",
     "pickup": {
-      "street": "Rotterdamer Straße 32",
-      "postal_code": "90451",
-      "city": "Nürnberg",
-      "country": "Deutschland",
+      "street": "Roderveldlaan 5",
+      "postal_code": "2600",
+      "city": "Antwerpen",
+      "country": "Belgien",
       "lat": "",
       "lng": ""
     },
